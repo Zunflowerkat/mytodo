@@ -50,5 +50,12 @@
   "author": "",
   "license": "ISC",
   "homepage": "https://zunflowerkat.github.io/mytodo",
-  "keywords": []
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zunflowerkat/mytodo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zunflowerkat/mytodo/issues"
+  }
 }
